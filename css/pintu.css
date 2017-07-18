@@ -1,0 +1,23 @@
+#move, #compare {  
+    border: 10px solid #808080;  
+    width: 499px;  
+    height: 499px;  
+    overflow: hidden;  
+    position: relative;  
+    background-color: #fafafa;  
+}  
+
+#compare {  
+    background-image: url(../images/pic_0.jpg);  
+    background-repeat: no-repeat;  
+}  
+
+#move p {  
+    margin: 0;  
+    cursor: pointer;  
+    width: 99px;  
+    height: 99px;  
+    position: absolute;  
+    background-image: url(../images/pic_0.jpg);  
+    background-repeat: no-repeat;  
+} 
