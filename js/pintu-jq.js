@@ -108,7 +108,7 @@ var tab = function (k) {
 
 // 调用
 $(function(){
-    var n;
+    var n = 0;
     init(10);
     $("#tab").bind("click",function(){
         n = parseInt(Math.random() * 13);
